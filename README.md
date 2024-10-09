@@ -70,9 +70,9 @@ After installation, you can begin using PigarOS to access a wide range of applic
 Contributing
 ------------
 
-We welcome contributions to PigarOS! If you would like to contribute, please fork the repository and submit a pull request. Make sure to follow the guidelines in our [Contributing Guide](https://github.com/PigarOS/CONTRIBUTING.md).
+We welcome contributions to PigarOS! If you would like to contribute, please fork the repository and submit a pull request. Make sure to follow the guidelines in our [Contributing Guide](https://github.com/SirPigari/PigarOS/blob/main/CONTRIBUTING.md).
 
 License
 -------
 
-This project is licensed under the MIT License. See the [LICENSE]([https://github.com/PigarOS/LICENSE.md](https://github.com/SirPigari/PigarOS/blob/main/LICENSE.md)) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/SirPigari/PigarOS/blob/main/LICENSE.md) file for more details.
