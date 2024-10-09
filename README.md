@@ -75,4 +75,4 @@ We welcome contributions to PigarOS! If you would like to contribute, please for
 License
 -------
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/PigarOS/LICENSE.md) file for more details.
+This project is licensed under the MIT License. See the [LICENSE]([https://github.com/PigarOS/LICENSE.md](https://github.com/SirPigari/PigarOS/blob/main/LICENSE.md)) file for more details.
